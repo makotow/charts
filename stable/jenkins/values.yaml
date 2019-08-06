@@ -162,7 +162,9 @@ master:
     - credentials-binding:1.19
     - git:3.11.0
     - google-oauth-plugin:0.8
-     
+    - jobConfigHistory:2.23
+    - blueocean:1.17
+
   # Enable to always override the installed plugins with the values of 'master.installPlugins' on upgrade or redeployment.
   # overwritePlugins: true
   # Enable HTML parsing using OWASP Markup Formatter Plugin (antisamy-markup-formatter), useful with ghprb plugin.
